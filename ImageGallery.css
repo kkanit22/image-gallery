@@ -1,0 +1,30 @@
+body {
+	padding-top: 70px;
+}
+.credit {
+	text-align: center;
+	margin:1em 0;
+}
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+.navbar-inverse .navbar-header>a {
+	color: white;
+}
+
+.thumbnail img {
+	background-image: "https://source.unsplash.com/?bridge";
+	width: 100%;
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+}
